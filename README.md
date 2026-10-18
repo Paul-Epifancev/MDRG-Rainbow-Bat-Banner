@@ -37,7 +37,7 @@ For more open-source tools, utilities, and mods for MDRG, check out the main too
 
 ## 💬 Contact & Support
 Have questions or suggestions? Reach out directly:
-🔗 **Discord:** [anon.jun](https://discord.gg/ed4C8ywUn)
+🔗 **Discord Server:** (https://discord.gg/ed4C8ywUn)
 
 ---
 *Made with ❤️ and 🐑 by **Paul.Epifancev** (`#warlockforbugs`)*
