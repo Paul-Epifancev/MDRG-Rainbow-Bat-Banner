@@ -28,7 +28,7 @@ Replaces the static in-game bat banner with a smoothly swaying, rainbow-cycling 
 - ✅ **No Malware:** No memory injection, no stealers, no hidden telemetry.  
   *(Без инъекций в память, стилеров или скрытой телеметрии)*
 - ✅ **Free Forever:** No Patreon, no subscriptions, no paywalls.  
-  *(Навсегда бесплатно: без Patreon, подписок и платных стен)*
+  *(Навсегда бесплатно: без Patreon, подписок)*
 
 ## 📦 Installation / Установка
 1. Ensure you have [MelonLoader](https://github.com/LavaGang/MelonLoader) installed for MDRG.  
