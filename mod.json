@@ -1,0 +1,18 @@
+{
+ "name": "<color=#FF0000>R</color><color=#FF7F00>a</color><color=#FFE600>i</color><color=#00FF00>n</color><color=#00E5FF>b</color><color=#0044FF>o</color><color=#9900FF>w</color> <color=#99FF00>Bat Banner</color>",
+ "description": "<color=#00E5FF>Animated cyber-banner</color> with <color=#FF007F>HSV rainbow cycling</color>",
+ "modVersion": "1.0.0",
+ "OnGameStart": {
+ "luaFiles": [
+ "scriptrainbowbat.lua"
+ ]
+ },
+ "targetVersion": "0.97.12",
+ "languageCode": "en",
+ "doNotChangeVariablesBelowThis": {
+ "timeCreated": 639277741826203626,
+ "guid": {
+ "serializedGuid": "6e0abec8-a205-4337-bf12-2a966aa01e40"
+ }
+ }
+}
